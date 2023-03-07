@@ -62,16 +62,6 @@ php artisan key:generate
 php artisan serve
 ```
 
-## Dokumentasi API dan Testing
-
-### Mengakses Dokumentasi API
-
-Untuk melihat dokumentasi API pastikan aplikasi sudah berjalan atau jika belum maka jalankan aplikasi terlebih dahulu menggunakan perintah dibawah
-
-```bash
-php artisan serve
-```
-
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
